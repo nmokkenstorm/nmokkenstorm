@@ -11,5 +11,6 @@
 
 - [x] [contentful-nestjs](https://github.com/nmokkenstorm/nestjs-contentful): a [NestJS](https://nestjs.com) plugin for [Contentful](https://www.contentful.com) schema synchronization
 - [ ] Check broken links in markdown documentation on PR
+- [ ] Federated story management
 - [ ] Link to code by class / function instead of only files and lines
 - [ ] Generate [Excalidraw](https://excalidraw.com) images in code blocks in markdown
