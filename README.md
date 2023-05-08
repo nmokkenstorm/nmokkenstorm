@@ -9,7 +9,7 @@
 
 ### TODO of Open Source things to build:
 
+- [x] [contentful-nestjs](https://github.com/nmokkenstorm/nestjs-contentful): a [NestJS](https://nestjs.com) plugin for [Contentful](https://www.contentful.com) schema syncing
 - [ ] Check broken links in markdown documentation on PR
 - [ ] Link to code by class / function instead of only files and lines
 - [ ] Generate [Excalidraw](https://excalidraw.com) images in code blocks in markdown
-- [ ] [contentful-nestjs](https://github.com/nmokkenstorm/nestjs-contentful): a [NestJS](https://nestjs.com) plugin for [Contentful](https://www.contentful.com) schema syncing
