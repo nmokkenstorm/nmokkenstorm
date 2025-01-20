@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - ⚙️ Software Developer
-- 🦄 Lightsaber Unicorn
-- 🌱 Vegan
+- 🌱 Vegan & Climate Activist
 - 🔭 Level 30 Carbon Based Lifeform
+- 🦄 Amateur unicorn flow artist
 - 🏳️‍🌈 Queer/Polyam - [they / he / any](https://en.pronouns.page/they%26he%26any)
 - 📘 learning Rust, reading the [interpreter book](https://craftinginterpreters.com) again
 - 📧 [niels@mokkenstorm.dev](mailto:niels@mokkenstorm.dev)
