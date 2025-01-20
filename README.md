@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚙️ Software Developer
+- ⚙️ Software Engineer & Consultant
 - 🌱 Vegan & Climate Activist
 - 🔭 Level 30 Carbon Based Lifeform
 - 🦄 Amateur unicorn flow artist
